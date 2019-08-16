@@ -1,0 +1,15 @@
+/* .class{
+    justify-content:flex;
+    text-align: center;
+} */
+table{
+    font-family: sans-serif;
+    border-collapse: collapse;
+}
+
+td,th{
+border:1px solid #ddd;
+text-align: left;
+padding:8px;
+
+}

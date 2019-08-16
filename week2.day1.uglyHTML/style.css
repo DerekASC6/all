@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(53, 53, 53);
+    color: whitesmoke;
+}
+header{ 
+    text-align:center;
+    font-size:72px;
+
+}
+
+h3{
+    text-align:center;
+    font-size:26px;
+    margin-top:20px;
+
+}
+
+div{
+    
+    text-align: center;
+    margin : auto;
+    
+  
+  
+}
+
+/*article{
+    background-color: #1a1818;
+
+}*/
+.watch_container>img{
+
+    float: left;
+    
+    max-height: 200px;
+   
+}
+.watch_container{
+    border-style: solid;
+  border-width: 3px;
+  border-radius: 3px;
+  border-color: beige;
+  background-color: black;
+  margin-bottom: 10px
+
+}
+.text>h2{
+
+    text-align: left;
+}
+.watch_description{
+    text-align: left;
+}
+
+h2{
+font: Unica One;
+}
